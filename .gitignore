@@ -1,0 +1,24 @@
+# =============================================================================
+#  CRITICAL — READ CLAUDE.md: "No Source Code on GitHub — EVER".
+#
+#  This GitHub repo (kvrnl/claude-assist) exists ONLY to deliver installer
+#  releases. Source code, scripts, build configs, and project files must NEVER
+#  be committed or pushed. The compiled installer .exe is delivered via the
+#  GitHub Releases API — never through git.
+#
+#  Strategy: ignore EVERYTHING by default, then explicitly allow only the
+#  handful of files that are safe to publish. This makes an accidental
+#  `git add -A` structurally incapable of staging source code.
+# =============================================================================
+
+# Ignore everything by default.
+*
+
+# ...except these explicitly-allowed, safe-to-publish files:
+!.gitignore
+!README.md
+!LICENSE
+
+# NOTE: SECURITY.md and PRIVACY.md are intentionally NOT allow-listed yet —
+# publishing them is a decision for the user to make. Add `!SECURITY.md` /
+# `!PRIVACY.md` here only after confirming they should be public.
