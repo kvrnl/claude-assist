@@ -1,3 +1,11 @@
+```
+##  ## ##  ##  #####  ##   ## ##
+## ##  ##  ##  ##  ## ###  ## ##
+####   ##  ##  #####  ## # ## ##
+## ##   ####   ## ##  ##  ### ##
+##  ##   ##    ##  ## ##   ## ######
+```
+
 # Claude Assist
 
 **Free desktop companion for Claude Code - by [KVRNL](https://kvrnl.io).**
