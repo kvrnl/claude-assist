@@ -1,33 +1,26 @@
-KVRNL Proprietary License
+KVRNL Software License (Free to Use - Proprietary)
 
 Copyright (c) 2026 KVRNL. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to use
-the Software for personal or commercial purposes, subject to the following
-conditions:
+This software ("the Software") is proprietary, closed-source software provided
+free of charge by KVRNL (https://kvrnl.io).
 
-1. You may download, install, and use the Software free of charge.
+GRANT. You are granted a personal, non-exclusive, non-transferable, revocable
+license to download, install, and use the Software on machines you own or
+control, activated with a valid license key issued through your free KVRNL
+account at https://kvrnl.io.
 
-2. You may NOT reverse-engineer, decompile, disassemble, or otherwise attempt
-   to derive the source code of the Software.
+RESTRICTIONS. You may not: (a) copy, redistribute, sell, rent, lease, or
+sublicense the Software; (b) reverse engineer, decompile, or disassemble the
+Software, or attempt to derive its source code, except where such restriction
+is prohibited by applicable law; (c) remove or circumvent any licensing,
+activation, or proprietary-notice mechanism; or (d) use the Software unlawfully.
 
-3. You may NOT modify, adapt, translate, or create derivative works based on
-   the Software.
+NO WARRANTY. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED. TO THE MAXIMUM EXTENT PERMITTED BY LAW, KVRNL SHALL NOT BE
+LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF, OR INABILITY TO USE, THE SOFTWARE.
 
-4. You may NOT redistribute, sublicense, sell, lease, rent, or otherwise
-   transfer the Software or any rights therein to any third party without
-   prior written permission from KVRNL.
+KVRNL may revoke this license or any license key at any time. This is NOT an
+open-source license; no source-code rights are granted.
 
-5. You may NOT remove, alter, or obscure any proprietary notices, labels, or
-   marks on the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
-KVRNL BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
-ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR INABILITY TO USE THE SOFTWARE.
-
-For licensing inquiries, contact KVRNL via GitHub:
-https://github.com/kvrnl
+(c) 2026 KVRNL - https://kvrnl.io
